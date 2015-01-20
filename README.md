@@ -4,6 +4,10 @@ This is an implementation of Simpleflake[http://engineering.custommade.com/simpl
 
 The reference Python implementation is located at https://github.com/SawdustSoftware/simpleflake.
 
+## Installation
+
+Add ``[clj-simpleflake "0.1.0"]`` to your project.clj.
+
 ## Usage
 
 ```clj
