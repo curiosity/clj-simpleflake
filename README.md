@@ -19,7 +19,7 @@ You could use ``clj-simpleflake.core/extract-bits`` to grab the timestamp or the
 
 ## License
 
-Copyright © 2015 Brandon Joseph Adams <emidln@gmail.com>
+Copyright © 2015 Beacon Solutions Inc. <info@curiosity.com>
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version. This is the same license as Clojure itself.
